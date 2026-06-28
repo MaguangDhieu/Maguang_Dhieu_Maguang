@@ -1,0 +1,62 @@
+{
+  "24/U/00789": {
+    "first_name": "DENG",
+    "last_name": "PETER",
+    "email": "deng@gmail.com",
+    "phone": "+2567869088",
+    "address": "Kajjasi",
+    "program": "LLB",
+    "gpa": 3.6,
+    "date_added": "2026-06-28T23:21:48.714780"
+  },
+  "24/E/21480/PS": {
+    "first_name": "MAGUANG DHIEU",
+    "last_name": "MAGUANG",
+    "email": "maguang@gmail.com",
+    "phone": "0786970988",
+    "address": "Kikoni",
+    "program": "BSSE",
+    "gpa": 3.7,
+    "date_added": "2026-06-28T23:23:46.459458"
+  },
+  "24/U/0899": {
+    "first_name": "LUBEGA",
+    "last_name": "JOHN",
+    "email": "luega@gmail.com",
+    "phone": "+25676609879",
+    "address": "Rubaga",
+    "program": "BCOM",
+    "gpa": 3.8,
+    "date_added": "2026-06-28T23:25:24.896671"
+  },
+  "24/X/214778/PS": {
+    "first_name": "KEVIN",
+    "last_name": "AJEFFEKO",
+    "email": "kevin@gmail.com",
+    "phone": "+211924007893",
+    "address": "Ntinda",
+    "program": "CSS",
+    "gpa": 3.5,
+    "date_added": "2026-06-28T23:27:46.805698"
+  },
+  "25/E/23879/PS": {
+    "first_name": "LAM",
+    "last_name": "DIT",
+    "email": "lam@gmail.com",
+    "phone": "+2567459786024",
+    "address": "Lugala",
+    "program": "LLB",
+    "gpa": 3.9,
+    "date_added": "2026-06-28T23:30:19.266376"
+  },
+  "24/U/0768": {
+    "first_name": "GAK",
+    "last_name": "JOHN",
+    "email": "gak@gmail.com",
+    "phone": "0768905467",
+    "address": "Kikoni",
+    "program": "BLIST",
+    "gpa": 3.4,
+    "date_added": "2026-06-28T23:32:00.235743"
+  }
+}
