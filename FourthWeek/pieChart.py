@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 
-
 Activities = ['Coding', 'Design', 'Marketing', 'Development']
 hours = [15, 30, 45, 10]
 
